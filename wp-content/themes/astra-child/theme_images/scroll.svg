@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="520px" height="835px" viewBox="-4 -4.3 520 835"
+	 overflow="visible" enable-background="new -4 -4.3 520 835" xml:space="preserve">
+<defs>
+</defs>
+<rect x="195.5" y="1" fill="none" stroke-opacity="0.1" stroke="#0071BA" stroke-width="2" width="314.9" height="314.9"/>
+<rect x="1" y="315.9" fill="none" stroke-opacity="0.1" stroke="#0071BA" stroke-width="2" width="509.4" height="509.4"/>
+<rect x="1" y="1" fill="none" stroke-opacity="0.1" stroke="#0071BA" stroke-width="2" width="194.5" height="194.5"/>
+<rect x="1" y="195.4" fill="none" stroke-opacity="0.1" stroke="#0071BA" stroke-width="2" width="120.5" height="120.5"/>
+<rect x="121.6" y="242" fill="none" stroke-opacity="0.1" stroke="#0071BA" stroke-width="2" width="73.9" height="73.9"/>
+<rect x="149" y="195.4" fill="none" stroke-opacity="0.1" stroke="#0071BA" stroke-width="2" width="46.6" height="46.6"/>
+<rect x="121.6" y="195.4" fill="none" stroke-opacity="0.1" stroke="#0071BA" stroke-width="2" width="27.4" height="27.4"/>
+<rect x="121.6" y="222.7" fill="none" stroke-opacity="0.1" stroke="#0071BA" stroke-width="2" width="19.2" height="19.2"/>
+<rect x="140.8" y="233.8" fill="none" stroke-opacity="0.1" stroke="#0071BA" stroke-width="2" width="8.2" height="8.2"/>
+<path fill="none" stroke-opacity="0.1" stroke="#0071BA" stroke-width="2" d="M1,825.3c281.8,0,509.8-228,509.8-509.8l0.1,0.3
+	C511,141.8,370.2,1,196.2,1h-0.7C88.1,1,1.1,88,1.1,195.4L1,195.3C1,262,55,315.9,121.6,315.9c40.9,0,73.9-33.1,73.9-73.9l0-0.1
+	c0-25.7-20.8-46.4-46.4-46.4l-0.1,0c-15.1,0-27.4,12.2-27.4,27.4l0-0.2c0,10.6,8.6,19.2,19.2,19.2l0,0.1c4.5,0,8.2-3.7,8.2-8.2v-0.1
+	c0-4.5-3.6-8.1-8.1-8.1c-4.6,0-8.3,3.7-8.3,8.3"/>
+</svg>

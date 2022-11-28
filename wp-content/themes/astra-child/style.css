@@ -1,0 +1,73 @@
+/*
+ Theme Name:   Astra Child
+ Theme URI:    http://chadlindemann.com/astro-child/
+ Description:  Astra Child Theme
+ Author:       Chad Lindemann
+ Author URI:   http://chadlindemann.com
+ Template:     astra
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  astra-child
+*/
+
+
+/* #1e73be */
+
+
+body {
+	/*background-color: red !important;*/
+}
+
+
+body {
+	border-top: 9px solid #1e73be;
+	background: url(/wp-content/themes/astra-child/theme_images/scroll.svg) no-repeat fixed right top;
+	background-size: 40.5%;
+}
+
+body::before {
+	content: "";
+	display: block;
+	border-top: 3px solid #ff6a00;
+	box-shadow: 0px 3px 4px 1px #ccc;
+}
+
+
+.main-header-bar {
+    background-color: rgba(255, 255, 255, 0.1);
+	
+}
+
+
+.widget-title {
+    	color: #1e73be;
+}
+
+.ast-separate-container .ast-archive-description, .ast-separate-container .ast-author-box {
+	background-color: white;
+	padding: 2em ;
+}
+
+
+ .wp-block-media-text .wp-block-media-text__content, .wp-block-media-text .wp-block-media-text__media {
+    align-self: stretch;
+}
+
+.entry-title, .entry-title a {
+	color: #1e73be;
+}
+
+.blog-layout-1 {
+    padding-bottom: 3em;
+    border-bottom: 2px solid #1e73be;
+}
+
+.ast-archive-description {
+    border-bottom: 2px solid #1e73be;
+}
+
+.site-footer a {
+    text-decoration: underline;
+	font-weight: bold;
+}
